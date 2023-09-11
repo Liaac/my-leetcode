@@ -5,4 +5,5 @@ func main() {
 	groupAnagrams([]string{})
 	twoSum([]int{}, 0)
 	longestConsecutive([]int{})
+	moveZeroes([]int{})
 }
