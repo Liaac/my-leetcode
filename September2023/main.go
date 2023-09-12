@@ -6,4 +6,5 @@ func main() {
 	twoSum([]int{}, 0)
 	longestConsecutive([]int{})
 	moveZeroes([]int{})
+	maxArea([]int{})
 }
