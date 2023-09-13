@@ -7,4 +7,5 @@ func main() {
 	longestConsecutive([]int{})
 	moveZeroes([]int{})
 	maxArea([]int{})
+	threeSum([]int{})
 }
